@@ -1,4 +1,4 @@
-# AI Lesion Analyzer
+# MedVision AI
 
 This is a lightweight, mobile-responsive web application that analyzes medical images (such as skin lesions) using a pre-trained deep learning model (MobileNetV2). The app applies **Grad-CAM (Gradient-weighted Class Activation Mapping)** to highlight the regions the AI found most significant in making its prediction, helping visualize the \"areas of concern\".
 
